@@ -5,7 +5,8 @@ Software Engineering Day1 Assignment
 #Part 1: Introduction to Software Engineering
 
 Explain what software engineering is and discuss its importance in the technology industry.
-
+Software engineering involves designing, developing and testing software applications and computer applications aimed at solving real life problems and make our lives easier.
+Software engineering importance is seen in development of new applications and technological solutions through innovation aimed at solving problems in the society. For instance, we are able to make e-wallet transactions through well designed and maintained software applications. In addition, sofware engineering advancements such as Generative AI, has made it work easier for people in the technology industry as they can work on complex activities while AI and other technological solutions handles the routine less complex activities, for instance, testing and debugging of software applications has been made easier through Generative AI such as ChatGPT. This has improved efficiency and productictivity. 
 
 Identify and describe at least three key milestones in the evolution of software engineering.
 
