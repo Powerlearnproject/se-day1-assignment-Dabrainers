@@ -15,16 +15,17 @@ List and briefly explain the phases of the Software Development Life Cycle.
 
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
+Agile and Waterfall methodolges are both approaches to software development. They are however unique in how their treat various elements of the software development process. Agile, even from its name, is flexible and adapts to changes while Waterfall is rigid and requires a predictable timeline. Due to the flexible nature of the Agile methodology, it requires a high rate of customer involvement and team collaboration, documentation process are also minimal, which is contrary to Waterfall methodology which has a low customer interaction and low team collaboration as the project requires to move within set timelines, as such products develops are less customer centeric than those developed through the agile methodology. The waterfall method uses are linear and sequential development method, where step A has to be completed before step B and where step can only be done after step A is complete, this is different from Agile which is Iterative and Incremental and as such feedback can be sought before a step is complete and correction incorporated. Waterfall methodologies are suitable for shorter web development tasks that do no require alot of changes. On the other hand, Agile is suitable for larger web development tasks such as development of e-wallets that require customer feedback and collaboartion with various stakeholders.
 
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
-
+Within a software engineering team, the Software developer is tasked with designing, developing, testing and maintaining software. During the process he/she needs to engage other teams to ensure that the software solution meets their needs and solves the problems at hand. On the hand, the Quality Assurance Engineer ensures compliance with set compliance standards and conducts testing and valigations on the software to ensure it meets the needs of the audience as well as quality standards. The Assurance Engineer through this process is required to recommed improvements on testing to ensure things are done in a right and efficient manner. in the team, there is also the project manager who is basically tasked with coming up with determinining the duration of the project, the resources required in terms of labour and finances and communicate with stakeholder to ensure their needs are met. The Project Manager interacts with the quality assurance teams and software engineering teams for a seamless project flow. 
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
 
 
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
-
+Software engineers are find it challenging to keep up with the rapid changes in customer demands and expectations as well as technological advancements where continous learning is required. In addition, tight deadlines and challenge in collaboration in projects due to distance is also a challenge faced by most software engineers. Increasing cyber threats to software and data is also a challenge. To overcome these challenges software engineers need to regulary upskill, conduct feedback surveys to better understand customer demands and expectations, and adopt automatic update of software to maintain stability and mitigate cyber attacks respectively. 
 
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
 
