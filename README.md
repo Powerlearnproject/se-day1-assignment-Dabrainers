@@ -28,6 +28,7 @@ The software development Life Cycle details the various stages through which a p
 
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
+
 Agile and Waterfall methodolges are both approaches to software development. They are however unique in how their treat various elements of the software development process. Agile, even from its name, is flexible and adapts to changes while Waterfall is rigid and requires a predictable timeline. Due to the flexible nature of the Agile methodology, it requires a high rate of customer involvement and team collaboration, documentation process are also minimal, which is contrary to Waterfall methodology which has a low customer interaction and low team collaboration as the project requires to move within set timelines, as such products develops are less customer centeric than those developed through the agile methodology. The waterfall method uses are linear and sequential development method, where step A has to be completed before step B and where step can only be done after step A is complete, this is different from Agile which is Iterative and Incremental and as such feedback can be sought before a step is complete and correction incorporated. Waterfall methodologies are suitable for shorter web development tasks that do no require alot of changes. On the other hand, Agile is suitable for larger web development tasks such as development of e-wallets that require customer feedback and collaboartion with various stakeholders.
 
 
@@ -42,6 +43,7 @@ Version Control enables multiple developers to work on a project without overwri
 
 
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
+
 Software engineers are find it challenging to keep up with the rapid changes in customer demands and expectations as well as technological advancements where continous learning is required. In addition, tight deadlines and challenge in collaboration in projects due to distance is also a challenge faced by most software engineers. Increasing cyber threats to software and data is also a challenge. To overcome these challenges software engineers need to regulary upskill, conduct feedback surveys to better understand customer demands and expectations, and adopt automatic update of software to maintain stability and mitigate cyber attacks respectively. 
 
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
@@ -59,7 +61,9 @@ Define prompt engineering and discuss its importance in interacting with AI mode
 Prompt engineering is an interesting way through which we communicate with artificial intelligence models. It involves designing a set of questions and refining them to communicate get the best responses from artificial intelligence.  
 Interacting with AI models is important because it saves time and effort thereby enhancing efficiency. Our increased interaction with AI Models involving refined questions and commands reduces the degree of error and improves the relevance of received in their responses. Additionally, by refining each set of instructions to the AI models we are able to make them more innovative and creative in the output they provide, for instance a picture of a perfect evening on the country side.
 
-Provide an Draw a girl. This is a vague prompt. The AI will just give me a picture of any girl it can come up with. Below are some improvements. 
+Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+
+Draw a girl. This is a vague prompt. The AI will just give me a picture of any girl it can come up with. Below are some improvements. 
 You are an experienced designer with over ten years of experience in photography. Draw a picture of an African girl with an oval face, long blonde natural hair, brown eyes, a gap between her teeth, a perfectly shaped nose and a cleft chin. Do you understand the task? If please ask any questions for clarity. This request is more precise and will most likely resemble what I have instructed, additionally, I have the option to make improvements if the AI does not understand my question and forget my previous requests. 
 Providing a clear, simple and more detailed or specific instruction to the AI improves my chances of getting closer to the desired output. It also enhances the creativity of the AI model in that, now I will not be given an output of a white girl but an African girl. This improves the quality of my work and saves time. 
-example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+
